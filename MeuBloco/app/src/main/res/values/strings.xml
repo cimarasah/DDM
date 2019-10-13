@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bloquinho da Cimara</string>
+    <string name="titulo">Título</string>
+    <string name="descricao">Descrição</string>
+    <string name="add_img">Adicionar Imagem</string>
+    <string name="salvar">Salvar</string>
+</resources>
